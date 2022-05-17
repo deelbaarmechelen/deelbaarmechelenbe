@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Deelbaar Mechelen</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Samen Meer Delen</description>
+	<lastBuildDate>Wed, 16 Dec 2020 17:27:42 +0000</lastBuildDate>
+	<language>nl</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/01/favicon-32x32.png</url>
+	<title>Uncategorized &#8211; Deelbaar Mechelen</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Welkom bij Deelbaar Mechelen</title>
+		<link>/2018/12/19/hello-world/</link>
+					<comments>/2018/12/19/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Dec 2018 22:35:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Voor meer info over het Klusbib project verwijzen we graag naar http://www.klusbib.be/ en Facebook Voor meer info over ons Deel IT project kan u contact met ons opnemen via info@deelbaarmechelen.be Voor meer info over het Zadenbib project kan je contact opnemen via info@deelbaarmechelen.be of een kijkje nemen op https://www.mijntuin.org/seed-libraries/82-deelbaar-mechelen.]]></description>
+										<content:encoded><![CDATA[
+<p>Voor meer info over het Klusbib project verwijzen we graag naar <a href="http://www.klusbib.be/">http://www.klusbib.be/</a> en <a href="https://www.facebook.com/Klusbib">Facebook</a></p>
+
+
+
+<p>Voor meer info over ons Deel IT project kan u contact met ons opnemen via <a href="mailto:info@digibib.deelbaarmechelen.be">info@deelbaarmechelen.be</a></p>
+
+
+
+<p>Voor meer info over het Zadenbib project kan je contact opnemen via <a href="mailto:info@deelbaarmechelen.be">info@deelbaarmechelen.be</a> of een kijkje nemen op <a href="https://www.mijntuin.org/seed-libraries/82-deelbaar-mechelen">https://www.mijntuin.org/seed-libraries/82-deelbaar-mechelen</a>.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2018/12/19/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
