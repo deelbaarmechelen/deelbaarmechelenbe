@@ -1,0 +1,2 @@
+# deelbaarmechelenbe
+Static version website
