@@ -1,0 +1,138 @@
+a:4:{s:8:"template";s:6:"hestia";s:4:"mods";a:37:{s:28:"ti_about_recommended_plugins";a:1:{s:19:"themeisle-companion";s:7:"visible";}s:31:"hestia_feature_thumbnail_buffer";s:0:"";s:18:"custom_css_post_id";i:220;s:24:"hestia_feature_thumbnail";s:0:"";s:12:"header_image";s:115:"https://www.deelbaarmechelen.be/wp-content/uploads/2021/07/cropped-aamir-suhail-ATlRqTCbvV4-unsplash-1-scaled-1.jpg";s:18:"nav_menu_locations";a:3:{s:7:"primary";i:2;s:12:"top-bar-menu";i:0;s:6:"footer";i:16;}s:28:"zerif_frontpage_was_imported";s:9:"not-zerif";s:11:"custom_logo";i:263;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1624533190;s:4:"data";a:10:{s:19:"wp_inactive_widgets";a:2:{i:0;s:6:"meta-2";i:1;s:17:"recent-comments-2";}s:9:"sidebar-1";a:4:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-2";i:2;s:10:"archives-2";i:3;s:12:"categories-2";}s:17:"subscribe-widgets";a:0:{}s:19:"sidebar-woocommerce";a:0:{}s:15:"sidebar-top-bar";a:0:{}s:14:"header-sidebar";a:0:{}s:17:"sidebar-big-title";a:0:{}s:18:"footer-one-widgets";a:0:{}s:18:"footer-two-widgets";a:0:{}s:20:"footer-three-widgets";a:0:{}}}s:13:"show_on_front";s:4:"page";s:17:"hestia_about_hide";b:0;s:16:"hestia_blog_hide";b:0;s:27:"hestia_big_title_background";s:82:"https://www.deelbaarmechelen.be/wp-content/uploads/2021/06/sunset-1807524_1280.jpg";s:23:"hestia_slider_alignment";s:5:"right";s:19:"hestia_contact_hide";b:1;s:23:"hestia_features_content";s:695:"[{"icon_value":"fab fa-weixin","color":"#e91e63","text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","link":"#","text2":"undefined","title":"Responsive","subtitle":"undefined","social_repeater":"undefined","id":"social-repeater-60c338975f66f","shortcode":"undefined"},{"icon_value":"fas fa-check","color":"#00bcd4","text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","link":"#","text2":"undefined","title":"Kwaliteit","subtitle":"undefined","social_repeater":"undefined","id":"social-repeater-60c3389771e5b","shortcode":"undefined"}]";s:25:"hestia_testimonials_title";s:0:"";s:28:"hestia_testimonials_subtitle";s:0:"";s:27:"hestia_testimonials_content";s:1403:"[{"text":"We hebben er geen spijt van! Na het gebruik van je product schoot mijn bedrijf omhoog! Ik heb de aankoopprijs binnen 48 uur terugverdiend! Meer had ik niet kunnen wensen.","link":"","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/uploads\/2019\/01\/DBM_logo-klein_klusbib-300x190.png","title":"Tool Library","subtitle":"Eigenaar","social_repeater":"undefined","id":"customizer_repeater_56d7ea7f40d56","shortcode":"undefined"},{"text":""Your company is truly upstanding and is behind its product 100 percent. Hestia is worth much more than I paid. I like Hestia more each day because it makes easier."","link":"","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/uploads\/2019\/01\/DBM_logo-extra_digibib-300x282.png","title":"Deel IT","subtitle":"Onafhankelijk artiest","social_repeater":"undefined","id":"customizer_repeater_56d7ea7f40d66","shortcode":"undefined"},{"text":""Thank you for making it painless, pleasant and most of all hassle free! I am so pleased with this product. Dude, your stuff is great! I will refer everyone I know."","link":"","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/uploads\/2019\/01\/DBM_logo-extra_speelbib-300x255.png","title":"Seed library","subtitle":"Freelancer","social_repeater":"undefined","id":"customizer_repeater_56d7ea7f40d76","shortcode":"undefined"}]";s:19:"hestia_team_content";s:3510:"[{"icon_value":"fab fa-facebook-f","text":"Locavore pinterest chambray affogato art party, forage coloring book typewriter. Bitters cold selfies, retro celiac sartorial mustache.","link":"","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/themes\/hestia\/assets\/img\/1.jpg","title":"Desmond Purpleson","subtitle":"CEO","social_repeater":"[{"id":"customizer-repeater-social-repeater-57fb908674e06","link":"facebook.com","icon":"fab fa-facebook-f"},{"id":"customizer-repeater-social-repeater-57fb9148530ft","link":"plus.google.com","icon":"fab fa-google-plus-g"},{"id":"customizer-repeater-social-repeater-57fb9148530fc","link":"twitter.com","icon":"fab fa-twitter"},{"id":"customizer-repeater-social-repeater-57fb9150e1e89","link":"linkedin.com","icon":"fab fa-linkedin-in"}]","id":"customizer_repeater_56d7ea7f40c56","shortcode":"undefined"},{"icon_value":"fab fa-facebook-f","text":"Craft beer salvia celiac mlkshk. Pinterest celiac tumblr, portland salvia skateboard cliche thundercats. Tattooed chia austin hell.","link":"","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/themes\/hestia\/assets\/img\/2.jpg","title":"Parsley Pepperspray","subtitle":"Marketingspecialist","social_repeater":"[{"id":"customizer-repeater-social-repeater-57fb9155a1072","link":"facebook.com","icon":"fab fa-facebook-f"},{"id":"customizer-repeater-social-repeater-57fb9160ab683","link":"twitter.com","icon":"fab fa-google-plus-g"},{"id":"customizer-repeater-social-repeater-57fb9160ab484","link":"pinterest.com","icon":"fab fa-twitter"},{"id":"customizer-repeater-social-repeater-57fb916ddffc9","link":"linkedin.com","icon":"fab fa-linkedin-in"}]","id":"customizer_repeater_56d7ea7f40c66","shortcode":"undefined"},{"icon_value":"fab fa-facebook-f","text":"Pok pok direct trade godard street art, poutine fam typewriter food truck narwhal kombucha wolf cardigan butcher whatever pickled you.","link":"","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/themes\/hestia\/assets\/img\/3.jpg","title":"Desmond Eagle","subtitle":"Grafisch vormgever","social_repeater":"[{"id":"customizer-repeater-social-repeater-57fb917e4c69e","link":"facebook.com","icon":"fab fa-facebook-f"},{"id":"customizer-repeater-social-repeater-57fb91830825c","link":"twitter.com","icon":"fab fa-google-plus-g"},{"id":"customizer-repeater-social-repeater-57fb918d65f2e","link":"linkedin.com","icon":"fab fa-twitter"},{"id":"customizer-repeater-social-repeater-57fb918d65f2x","link":"dribbble.com","icon":"fab fa-linkedin-in"}]","id":"customizer_repeater_56d7ea7f40c76","shortcode":"undefined"},{"icon_value":"fab fa-facebook-f","text":"Small batch vexillologist 90's blue bottle stumptown bespoke. Pok pok tilde fixie chartreuse, VHS gluten-free selfies wolf hot.","link":"","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/themes\/hestia\/assets\/img\/4.jpg","title":"Ruby Von Rails","subtitle":"Hoofdontwikkelaar","social_repeater":"[{"id":"customizer-repeater-social-repeater-57fb925cedcg5","link":"github.com","icon":"fab fa-facebook-f"},{"id":"customizer-repeater-social-repeater-57fb925cedcb2","link":"facebook.com","icon":"fab fa-google-plus-g"},{"id":"customizer-repeater-social-repeater-57fb92615f030","link":"twitter.com","icon":"fab fa-twitter"},{"id":"customizer-repeater-social-repeater-57fb9266c223a","link":"linkedin.com","icon":"fab fa-linkedin-in"}]","id":"customizer_repeater_56d7ea7f40c86","shortcode":"undefined"}]";s:26:"hestia_clients_bar_content";s:1726:"[{"text":"undefined","link":"#","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/plugins\/themeisle-companion\/obfx_modules\/companion-legacy\/inc\/hestia\/inc\/img\/clients1.png","title":"undefined","subtitle":"undefined","social_repeater":"undefined","id":"social-repeater-60c33897b768c","shortcode":"undefined"},{"text":"undefined","link":"#","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/plugins\/themeisle-companion\/obfx_modules\/companion-legacy\/inc\/hestia\/inc\/img\/clients2.png","title":"undefined","subtitle":"undefined","social_repeater":"undefined","id":"social-repeater-60c3389785f13","shortcode":"undefined"},{"text":"undefined","link":"#","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/plugins\/themeisle-companion\/obfx_modules\/companion-legacy\/inc\/hestia\/inc\/img\/clients3.png","title":"undefined","subtitle":"undefined","social_repeater":"undefined","id":"social-repeater-60c33897f93a0","shortcode":"undefined"},{"text":"undefined","link":"#","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/plugins\/themeisle-companion\/obfx_modules\/companion-legacy\/inc\/hestia\/inc\/img\/clients4.png","title":"undefined","subtitle":"undefined","social_repeater":"undefined","id":"social-repeater-60c33897e5334","shortcode":"undefined"},{"text":"undefined","link":"#","text2":"undefined","image_url":"https:\/\/www.deelbaarmechelen.be\/wp-content\/plugins\/themeisle-companion\/obfx_modules\/companion-legacy\/inc\/hestia\/inc\/img\/clients5.png","title":"undefined","subtitle":"undefined","social_repeater":"undefined","id":"social-repeater-60c3389741964","shortcode":"undefined"}]";s:23:"hestia_clients_bar_hide";b:1;s:16:"hestia_team_hide";b:1;s:20:"hestia_features_hide";b:1;s:12:"accent_color";s:7:"#1e030d";s:16:"hestia_body_font";s:6:"Roboto";s:27:"hestia_post_page_content_fs";d:4;s:16:"background_image";s:0:"";s:20:"hestia_header_layout";s:7:"default";s:22:"hestia_big_title_title";s:16:"Samen Meer Delen";s:21:"hestia_big_title_text";s:0:"";s:28:"hestia_big_title_button_text";s:0:"";s:24:"hestia_testimonials_hide";b:1;s:21:"hestia_big_title_hide";b:0;s:20:"hestia_blog_subtitle";s:0:"";s:17:"header_image_data";O:8:"stdClass":5:{s:13:"attachment_id";i:282;s:3:"url";s:115:"https://www.deelbaarmechelen.be/wp-content/uploads/2021/07/cropped-aamir-suhail-ATlRqTCbvV4-unsplash-1-scaled-1.jpg";s:13:"thumbnail_url";s:115:"https://www.deelbaarmechelen.be/wp-content/uploads/2021/07/cropped-aamir-suhail-ATlRqTCbvV4-unsplash-1-scaled-1.jpg";s:6:"height";i:1150;s:5:"width";i:2000;}s:28:"hestia_header_image_sitewide";b:0;}s:7:"options";a:2:{s:9:"site_icon";s:2:"15";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:2903:"p a {
+    color: goldenrod;
+    text-decoration: underline;
+}
+.navbar .navbar-nav>li>a{
+text-decoration:none;
+}
+.page-header.header-small{
+	min-height: 500px; 
+}
+.title,  section.hestia-blogs .hestia-title {
+    font-weight: normal;
+    text-align: center;
+    color: #daa520;
+    font-size: 50px;
+    font-family: 'Roboto Slab';
+    /* text-transform: uppercase; */
+}
+.hestia-about.section-image{
+	color: #474747;
+}
+.mission_stat {
+    /* border: 1px solid; */
+    padding: 3% 0 3% 2%;
+    background: white;
+    color: #474747;
+    border-radius: 10px;
+    font-style: italic;
+    width: 58%;
+    float: left;
+}
+.mission_image {
+    width: 40%;
+    float: left;
+    padding: 3% 0;
+}
+.mission_stat p {
+    line-height: 1.5em;
+}
+.mission_stat a {
+    
+    color: goldenrod;
+    text-decoration: underline;
+}
+.section-image .title {
+    text-align: center;
+	color: #daa520;
+    font-size: 50px;
+}
+.hestia-about.section-image{
+	
+}
+.projects {
+    float: left;
+    margin: 5% 0;
+	overflow: hidden;
+}
+.project a {
+    color: #daa520;
+    font-weight: 500;
+}
+.project {
+    width: 32%;
+    float: left;
+    margin-left: 2%;
+}
+.project:first-child {
+    margin-left: 0;
+}
+.project h2 {
+    text-align: center;
+}
+.desc {
+    font-size: 18px;
+    margin: 15px;
+}
+.project_image {
+    text-align: center;
+    margin: 15px 5% 0;
+}
+.disclaimer {
+    margin: 0 15px 15px 15px;
+}
+.contact .title {
+    margin-bottom: 25px;
+}
+.help_image {
+    width: 40%;
+    float: left;
+    margin-right: 4%;
+}
+.subpage_content {
+    font-family: 'Roboto';
+}
+.subpage_title {
+    color: #daa520;
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
+.subpage_desc {
+    font-size: 18px;
+}
+.subpage_section {
+    margin: 15px 0;
+}
+
+.project_image img {
+    border-radius: 10px;
+}
+.section-image:after{
+	background:#fff;
+}
+.page-header.header-small .container .hestia-title, .page-header.header-small .container .title{
+	display:none;
+}
+.subpage_header_title.subpage_title {
+    font-size: 2.25em;
+    /* border-bottom: 1px solid; */
+    text-align: center;
+}
+section#about {
+    background: #fff;
+    background-image: none !important;
+}
+/*blog section*/
+h6.category {
+    display: none;
+}
+.card-blog a.more-link, .card-blog a.moretag{
+	color:#daa520;
+}
+.single-post .blog-post .section-text h2 {
+    color: goldenrod;
+    font-family: 'Roboto Slab';
+}
+.hestia-about:not(.is-shortcode):before, .hestia-clients-bar:not(.is-shortcode):before, .hestia-contact:not(.is-shortcode):before, .hestia-features:not(.is-shortcode):before, .hestia-pricing:not(.is-shortcode):before, .hestia-ribbon:not(.is-shortcode):before, .hestia-shop:not(.related):not(.is-shortcode):before, .hestia-subscribe:not(#subscribe-on-blog):not(.is-shortcode):before, .hestia-team:not(.is-shortcode):before, .hestia-testimonials:not(.is-shortcode):before, .hestia-work:not(.is-shortcode):before, body.page .hestia-blogs:not(.is-shortcode):before{
+	border:none;
+}";}
